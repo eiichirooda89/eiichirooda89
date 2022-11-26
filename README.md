@@ -2,7 +2,7 @@
 - 👀 I’m interested in football
 - 🌱 I’m currently learning crypto
 - 💞️ I’m looking to collaborate on Twitter 
-- 📫 How to reach me Twitter
+- 📫 How to reach me on Twitter
 
 <!---
 eiichirooda89/eiichirooda89 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
